@@ -1,0 +1,13 @@
+C:\Users\Nate\Documents\CSharp_april2020\Lab14MVC\Lab14MVC\bin\Debug\netcoreapp3.1\Lab14MVC.exe
+C:\Users\Nate\Documents\CSharp_april2020\Lab14MVC\Lab14MVC\bin\Debug\netcoreapp3.1\Lab14MVC.deps.json
+C:\Users\Nate\Documents\CSharp_april2020\Lab14MVC\Lab14MVC\bin\Debug\netcoreapp3.1\Lab14MVC.runtimeconfig.json
+C:\Users\Nate\Documents\CSharp_april2020\Lab14MVC\Lab14MVC\bin\Debug\netcoreapp3.1\Lab14MVC.runtimeconfig.dev.json
+C:\Users\Nate\Documents\CSharp_april2020\Lab14MVC\Lab14MVC\bin\Debug\netcoreapp3.1\Lab14MVC.dll
+C:\Users\Nate\Documents\CSharp_april2020\Lab14MVC\Lab14MVC\bin\Debug\netcoreapp3.1\Lab14MVC.pdb
+C:\Users\Nate\Documents\CSharp_april2020\Lab14MVC\Lab14MVC\obj\Debug\netcoreapp3.1\Lab14MVC.csprojAssemblyReference.cache
+C:\Users\Nate\Documents\CSharp_april2020\Lab14MVC\Lab14MVC\obj\Debug\netcoreapp3.1\Lab14MVC.csproj.CoreCompileInputs.cache
+C:\Users\Nate\Documents\CSharp_april2020\Lab14MVC\Lab14MVC\obj\Debug\netcoreapp3.1\Lab14MVC.AssemblyInfoInputs.cache
+C:\Users\Nate\Documents\CSharp_april2020\Lab14MVC\Lab14MVC\obj\Debug\netcoreapp3.1\Lab14MVC.AssemblyInfo.cs
+C:\Users\Nate\Documents\CSharp_april2020\Lab14MVC\Lab14MVC\obj\Debug\netcoreapp3.1\Lab14MVC.dll
+C:\Users\Nate\Documents\CSharp_april2020\Lab14MVC\Lab14MVC\obj\Debug\netcoreapp3.1\Lab14MVC.pdb
+C:\Users\Nate\Documents\CSharp_april2020\Lab14MVC\Lab14MVC\obj\Debug\netcoreapp3.1\Lab14MVC.genruntimeconfig.cache
